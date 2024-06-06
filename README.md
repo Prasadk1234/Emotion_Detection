@@ -5,6 +5,6 @@
 
 
 ## Images of running model
-Screenshot 2024-06-06 124330.png
+![Alt text](Screenshot 2024-06-06 124330.png "Optional title")
 
 
