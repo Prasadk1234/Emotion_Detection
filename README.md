@@ -5,6 +5,6 @@
 
 
 ## Images of running model
-![Alt text](Screenshot 2024-06-06 124330.png "Optional title")
+<img src="Screenshot 2024-06-06 124330.png" alt="Alt text" title="Optional title">
 
 
