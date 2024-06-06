@@ -5,6 +5,10 @@
 
 
 ## Images of running model
-<img src="Screenshot 2024-06-06 124330.png" alt="Alt text" title="Optional title">
+<img src="Screenshot 2024-06-06 124330.png" alt="Alt text" title="Photo1">
 
+<img src="Screenshot 2024-06-06 124343.png" alt="Alt text" title="Photo2">
 
+<img src="Screenshot 2024-06-06 124356.png" alt="Alt text" title="Photo3">
+
+<img src="Screenshot 2024-06-06 124432.png" alt="Alt text" title="Photo4">
