@@ -5,7 +5,7 @@
 
 ## Description
 
-- Item 1: This is the first item in the list
+- Item 1: Addressed class imbalance in the FER-2013 dataset by employing image augmentation and class weights, improving model robustness 
 - Item 2: This is the second item in the list
 - Item 3: This is the third item in the list
 
